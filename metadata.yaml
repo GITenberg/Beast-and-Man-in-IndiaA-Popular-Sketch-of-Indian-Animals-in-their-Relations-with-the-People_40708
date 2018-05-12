@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38798
     wikipedia: https://en.wikipedia.org/wiki/John_Lockwood_Kipling
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40708#Beast-and-Man-in-IndiaA-Popular-Sketch-of-Indian-Animals-in-their-Relations-with-the-People
 gutenberg_issued: '2012-09-09'
 gutenberg_type: Text
 identifiers:
